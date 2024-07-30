@@ -42,21 +42,21 @@ For now, I didn't have plan to add new features very soon, but the ultimate goal
 
 ### Screenshots
 
-![1. Windows ME.png](/Users/ricardo1pran/Documents/GitHub/ClassicToDo/screenshots/1.%20Windows%20ME.png)
+![1. Windows ME.png](screenshots/1.%20Windows%20ME.png)
 
 _Pic 1. Main application running on Windows ME_
 
-![2. validations.png](/Users/ricardo1pran/Documents/GitHub/ClassicToDo/screenshots/2.%20validations.png)
+![2. validations.png](screenshots/2.%20validations.png)
 
-![2.b. validations 2.png](/Users/ricardo1pran/Documents/GitHub/ClassicToDo/screenshots/2.b.%20validations%202.png)
+![2.b. validations 2.png](screenshots/2.b.%20validations%202.png)
 
 _Pic 2a, 2b. Simple validations._
 
-![3. complete.png](/Users/ricardo1pran/Documents/GitHub/ClassicToDo/screenshots/3.%20complete.png)
+![3. complete.png](screenshots/3.%20complete.png)
 
 _Pic 3. Features include complete todo, delete todo. There's also validation for completing a completed todo._
 
-![XP.png](/Users/ricardo1pran/Documents/GitHub/ClassicToDo/screenshots/XP.png)
+![XP.png](screenshots/XP.png)
 
 _Pic 4. Classic ToDo running on Windows XP_
 
