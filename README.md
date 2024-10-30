@@ -14,7 +14,7 @@ On that note, I'm still in progress exploring other programming languages and ma
 
 ### Specifications
 
-- 32 bit Windows OS
+- 32 bit Windows OS (Windows ME, 2000 and XP is recommended)
 
 - 32 bit color mode for convenience
 
@@ -22,7 +22,7 @@ On that note, I'm still in progress exploring other programming languages and ma
 
 Notes:
 
-This program will run on Windows 9.x, Windows ME, Windows 2K and NT, Windows XP and up. Theoritically, it could run until Windows 11, but will be tested soon.
+This program will run on Windows 9.x, Windows ME, Windows 2K and NT, Windows XP and up. Theoritically, it could run until Windows 11, but I have other To Do applications for each newer operating systems, so please check my repositories.
 
 Classic ToDo is made using Visual Basic 6, so there are no specific requirements. It also compiles as a single .exe file, so no need to have installers or similar things as there's nothing to register or install. It should be able to run as a portable .exe on any PC.
 

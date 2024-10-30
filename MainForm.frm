@@ -83,6 +83,10 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
+    Call AddToDo
+End Sub
+
+Private Sub AddToDo()
     If Text1.Text = "" Then
         MsgBox "Type ToDo First!"
     Else
@@ -112,5 +116,12 @@ Private Sub Command3_Click()
         MsgBox "The ToDo has been completed before"
     Else
         List1.List(List1.ListIndex) = "--" + List1.Text + "-- (Completed)"
+    End If
+End Sub
+
+Private Sub Text1_KeyPress(KeyAscii As Integer)
+    If KeyAscii = vbKeyReturn Then
+        Call AddToDo
+        KeyAscii = 0
     End If
 End Sub
